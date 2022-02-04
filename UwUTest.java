@@ -6,6 +6,6 @@ public class UwUTest
 	@Test
 	public void addition()
 	{
-		assertEquals(2, UwU.add(1,1));
+		assertEquals(3, UwU.add(1,1));
 	}
 }
